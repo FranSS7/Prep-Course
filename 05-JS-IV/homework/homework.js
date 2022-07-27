@@ -125,3 +125,16 @@ module.exports = {
   sumarLikesDeUsuario,
   agregarMetodoCalculoDescuento
 }
+
+
+
+let alumno = ["Nombre: Francisco","Nombre: Enano","Nombre: Esteban"];
+
+function agregar(agre){
+  alumno.push(agre);
+}
+
+for (const validar of iterable) {
+  console.log(validar);
+}
+
